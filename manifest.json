@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-27T22:10:46.364Z",
+  "generatedAt": "2026-07-27T22:17:40.710Z",
   "generator": "insights-hub-generator@1.0.0",
   "services": [
     {
@@ -54,6 +54,33 @@
         "owner": "pratikbadlani02",
         "repo": "insights-hub-registry",
         "path": "services/lodestar",
+        "ref": "main",
+        "repoUrl": "https://github.com/pratikbadlani02/insights-hub-registry"
+      }
+    },
+    {
+      "id": "lodestar1",
+      "name": "Lodestar1",
+      "stack": "react",
+      "archetype": "react-spa",
+      "skill": "react-analysis",
+      "analyzedAt": "2026-07-27T22:17:40.710Z",
+      "pages": [
+        "01-architecture",
+        "02-routing-and-navigation",
+        "03-access-and-rules",
+        "04-data-model",
+        "05-dependencies",
+        "06-runtime-flows",
+        "07-state-and-data-fetching",
+        "08-error-handling",
+        "09-deployment"
+      ],
+      "source": {
+        "type": "github",
+        "owner": "pratikbadlani02",
+        "repo": "insights-hub-registry",
+        "path": "services/lodestar1",
         "ref": "main",
         "repoUrl": "https://github.com/pratikbadlani02/insights-hub-registry"
       }
