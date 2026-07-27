@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-07-27T00:00:00Z",
-  "generator": "insights-hub@upload",
+  "generator": "insights-hub-generator@1.0.0",
   "services": []
 }
