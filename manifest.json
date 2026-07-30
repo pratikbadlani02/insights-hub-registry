@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T22:18:48.733Z",
+  "generatedAt": "2026-07-30T20:21:56.777Z",
   "generator": "insights-hub-generator@1.0.0",
   "services": [
     {
@@ -28,7 +28,10 @@
         "path": "services/lodestar",
         "ref": "main",
         "repoUrl": "https://github.com/pratikbadlani02/insights-hub-registry"
-      }
+      },
+      "tags": [
+        "product-abc"
+      ]
     }
   ]
 }
