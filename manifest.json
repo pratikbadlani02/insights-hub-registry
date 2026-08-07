@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T13:44:04.231Z",
+  "generatedAt": "2026-08-07T17:24:27.825Z",
   "generator": "insights-hub-generator@1.0.0",
   "services": [
     {
@@ -57,6 +57,37 @@
         "owner": "pratikbadlani02",
         "repo": "insights-hub-registry",
         "path": "services/spring-petclinic",
+        "ref": "main",
+        "repoUrl": "https://github.com/pratikbadlani02/insights-hub-registry"
+      }
+    },
+    {
+      "id": "spring-petclinic1",
+      "name": "spring-petclinic2",
+      "stack": "java-spring",
+      "archetype": "rest-api",
+      "skill": "spring-analysis",
+      "analyzedAt": "2026-06-28T00:00:00Z",
+      "pages": [
+        "00-overview",
+        "01-architecture",
+        "02-entry-points",
+        "03-business-rules",
+        "04-data-model",
+        "05-dependencies",
+        "06-interactions",
+        "07-data-flow",
+        "08-error-handling",
+        "09-deployment"
+      ],
+      "tags": [
+        "product-abc"
+      ],
+      "source": {
+        "type": "github",
+        "owner": "pratikbadlani02",
+        "repo": "insights-hub-registry",
+        "path": "services/spring-petclinic1",
         "ref": "main",
         "repoUrl": "https://github.com/pratikbadlani02/insights-hub-registry"
       }
